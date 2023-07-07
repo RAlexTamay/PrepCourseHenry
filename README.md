@@ -1,2 +1,3 @@
 # PrepCourseHenry
-este es un repositorio de prueba
+Alex Tamay
+este proyecto es prueba ara clonarlo a mi escritorio local
